@@ -1,5 +1,5 @@
 # Unpaired-Sketch-to-Photo-Translation
-**<font color=red>[New]</font> We have released our code at [here].(https://github.com/rt219/Unsupervised-Sketch-to-Photo-Synthesis)**
+<b><font color=red>[New]</font></b> **We have released our code at https://github.com/rt219/Unsupervised-Sketch-to-Photo-Synthesis)**
 
 This project is the implementation of *An Unpaired Sketch-to-Photo Translation Model* (arxiv: [https://arxiv.org/abs/1909.08313](https://arxiv.org/abs/1909.08313)). 
 # Photo Generation Examples
